@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=batchGray
+comment0.text=\r\n\ Write\ a\ description\ of\ batchGray\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeGrey(edu.duke.ImageResource)
+comment2.params=inImage
+comment2.target=edu.duke.ImageResource\ makeInverted(edu.duke.ImageResource)
+comment3.params=
+comment3.target=void\ batchMakeGrey()
+comment4.params=
+comment4.target=void\ batchMakeInverted()
+comment5.params=
+comment5.target=void\ testGrey()
+comment6.params=
+comment6.target=void\ testInverted()
+numComments=7
